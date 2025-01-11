@@ -1,4 +1,4 @@
-A simplified chess game developed by Zubair, Eldona Rama, and Beatrice.
+A simplified chess game developed by Zubair(26710250), Eldona Rama (24334859), and Beatrice (38548252). 
 This project implements the core functionality of chess, excluding castling and en passant moves.
 
 Table of Contents
